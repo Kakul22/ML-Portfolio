@@ -65,12 +65,15 @@ Underfitting → model is too simple (high error everywhere)
 Good fit → model captures pattern correctly  
 Overfitting → model is too complex (fits even noise)
 
-Comparison  
-Aspect	                   Underfitting	           Overfitting    
-ModelComplexity	            Low	                   High    
-Training Accuracy	          Low                    Very High  
-Testing Accuracy	          Low	                   Low  
-Generalization	            Poor	                 Poor  
+## Comparison
+
+| Aspect             | Underfitting | Overfitting |
+|--------------------|------------- |-------------|
+| Model Complexity   | Low          | High        |
+| Training Accuracy  | Low          | Very High   |
+| Testing Accuracy   | Low          | Low         |
+| Generalization     | Poor         | Poor        |
+
 
 **Why It Matters**
 
