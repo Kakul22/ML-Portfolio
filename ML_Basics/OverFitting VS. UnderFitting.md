@@ -28,7 +28,8 @@ The model cannot capture the complexity → results in wrong predictions.
 Model too simple  
 Not enough training  
 Insufficient features  
-How to Fix Underfitting  
+
+### How to Fix Underfitting  
 Use a more complex model  
 Increase training time  
 Add more relevant features
@@ -52,20 +53,21 @@ A model that perfectly remembers all training examples but fails on new data.
 Model too complex  
 Too many features  
 Small dataset  
-How to Fix Overfitting  
+
+### How to Fix Overfitting  
 Use more training data  
 Apply regularization  
 Reduce model complexity  
 Use techniques like dropout (in deep learning)  
 Visual Intuition
 
-Underfitting → model is too simple (high error everywhere)
-Good fit → model captures pattern correctly
+Underfitting → model is too simple (high error everywhere)  
+Good fit → model captures pattern correctly  
 Overfitting → model is too complex (fits even noise)
 
 Comparison  
-Aspect	                   Underfitting	           Overfitting  
-ModelComplexity	            Low	                   High  
+Aspect	                   Underfitting	           Overfitting    
+ModelComplexity	            Low	                   High    
 Training Accuracy	          Low                    Very High  
 Testing Accuracy	          Low	                   Low  
 Generalization	            Poor	                 Poor  
