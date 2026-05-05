@@ -4,10 +4,10 @@
 
 This repository is created to:
 
-📚 Document my Machine Learning journey
-💻 Implement ML algorithms with code
-📊 Visualize concepts for better understanding
-🚀 Build real-world projects
+📚 Document my Machine Learning journey  
+💻 Implement ML algorithms with code  
+📊 Visualize concepts for better understanding  
+🚀 Build real-world projects  
 ✨ Final Note
 
 Machine Learning is not just about coding —
