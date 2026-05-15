@@ -77,7 +77,7 @@ As model complexity increases:
 
 ## Visual Representation
 
-![Bias Variance tradeoff](images/bias_variance_graph.png)
+![Bias Variance Tradeoff](../images/bias_variance_graph.png)
 
 ---
 
