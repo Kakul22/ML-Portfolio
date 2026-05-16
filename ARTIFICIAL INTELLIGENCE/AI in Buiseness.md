@@ -89,3 +89,41 @@ S. No.                                                Sector                    
 35                                                  Security                                                                      Theft detection for malls and shops.  
 
 36                                               Sustainability                                                           AI tracking and reduction of carbon footprint per parcel.  
+
+
+
+
+
+###  The IndiaAI Mission, launched in March 2024, aims to establish a sovereign AI ecosystem tailored for India by advancing technology through seven strategic pillars. 
+### Its primary goal is ### to foster innovation and accelerate the adoption of artificial intelligence across key sectors such as healthcare, education, agriculture, and governance.
+### By creating dedicated research centres, supporting start-ups, and facilitating collaborations between academia and industry, the mission seeks to address India’s unique challenges and ### opportunities.
+### The initiative also emphasises ethical AI development, skill-building, and inclusion to ensure equitable growth and long-term sustainability for India’s digital economy.
+
+
+
+
+###  The 7 Pillars of IndiaAI
+-> The mission is structured to address every stage of the AI lifecycle, from infrastructure to ethics.
+
+1. INDIAN AI COMPUTE PILLAR :
+   -> Democratizes access to high-end computing infrastructure.
+
+2. INDIAN AI INNOVATION CENTER :
+   -> Develops indigenous large multimodal models (LMMs).
+
+3. INDIAN AI DATASET PLATFORM :
+   -> A unified repository housing high-quality datasets and models, enabling researchers to build solutions without starting from scratch.
+
+4. INDIAN AI APPLICATION DEVELOPMENT :
+   -> Focuses on “population-scale” solutions.
+
+5. INDIAN AI FUTURE SKILLS:
+   -> Aims to create a workforce of AI-ready professionals through PhD fellowships and AI labs.
+
+6. INDIAN AI STARTUP FINANCING:
+   -> Provides risk capital and global market access for AI start-ups.
+
+7. SAFE AND TRUSTED AI :
+   -> Implements a “safe harbour” mechanism to provide regulatory clarity, ensuring innovation happens within an ethical and responsible framework.
+
+The IndiaAI Mission is not just a technology project; it is a Digital Public Infrastructure (DPI) designed to ensure that the benefits of the AI revolution reach every citizen—from a rural farmer to a metropolitan developer.
